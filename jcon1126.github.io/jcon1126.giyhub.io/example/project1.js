@@ -1,4 +1,6 @@
+
 functionsetup()
+
 {createCanvas(480,120);
 }
 functiondraw()
