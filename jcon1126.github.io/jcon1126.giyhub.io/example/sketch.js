@@ -1,3 +1,5 @@
+
+
 functionsetup()
 {createCanvas(480,120);}functiondraw()
 {if(mouseIsPressed){fill(0);}
