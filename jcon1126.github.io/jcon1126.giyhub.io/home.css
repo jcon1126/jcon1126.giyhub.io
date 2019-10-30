@@ -1,5 +1,8 @@
 
-body { background-color: maroon;
-    padding-top: 3.5rem;
+main { background-color: maroon;
+    padding-top: 3.5rem; background-image: url("http://giphygifs.s3.amazonaws.com/media/1gbQIeNzZxcSk/giphy.gif")  alt="shy anime girl";
   }
+  div {color:rgb(71, 148, 0);}
+  nav {color: dodgerblue;}
+  a button {background-color: limegreen;}
   
